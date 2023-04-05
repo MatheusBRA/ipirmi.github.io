@@ -2,7 +2,7 @@
   "useSmtp": true,
   "host": "smtp.gmail.com",
   "port": 465,
-  "username": "msoaresaugusto@gmail.com",
-  "password": "123456Sanvicente!",
-  "recipientEmail": "msoaresaugusto@gmail.com"
+  "username": "",
+  "password": "",
+  "recipientEmail": ""
 }
